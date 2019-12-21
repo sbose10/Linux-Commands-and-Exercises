@@ -1,0 +1,9 @@
+{
+    "database-root-password": "$DBPASS",
+    "database-user-password": "$RPASS",
+    "database-access-from-ip": "192.168.22.11",
+    "database-ip": "`192.168.22.10",
+    "webserver-ip": "192.168.22.11",
+    "database-name": "comments",
+    "database-user-name": "pootr"
+}

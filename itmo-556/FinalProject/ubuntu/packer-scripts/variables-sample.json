@@ -1,0 +1,9 @@
+{
+    "database-root-password": "rootp",
+    "database-user-password": "passr",
+    "database-access-from-ip": "192.168.33.11",
+    "database-ip": "192.168.33.10",
+    "webserver-ip": "192.168.33.11",
+    "database-name": "comments",
+    "database-user-name": "pootr"
+}
